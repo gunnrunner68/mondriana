@@ -1,6 +1,3 @@
-Certainly! Here's the complete code with the modifications to save the generated Mondrian-style artwork as a PNG file:
-
-```python
 from PIL import Image, ImageDraw
 import random
 import os
@@ -82,6 +79,3 @@ def mondrian_style(width, height, min_lines=2, max_lines=4, min_gap=20, edge_buf
 
 canvas_width, canvas_height = 800, 480
 mondrian_style(canvas_width, canvas_height)
-```
-
-You can now copy and paste this code into a new file and run it. The generated Mondrian-style artwork will be saved as "mondrianpic.png" in the directory "/pi/home/mondrianimage".
