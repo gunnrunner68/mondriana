@@ -72,7 +72,7 @@ def mondrian_style(width, height, min_lines=2, max_lines=4, min_gap=20, edge_buf
             subdivide_rectangle(draw, box, colors, line_width, 0, max_depth)
 
     # Save the image as a PNG file
-    output_dir = "/pi/home/mondrianimage"
+    output_dir = "/home/pi/mondrianimage"
     os.makedirs(output_dir, exist_ok=True)  # Create the directory if it doesn't exist
     output_path = os.path.join(output_dir, "mondrianpic.png")
     image.save(output_path)
