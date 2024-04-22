@@ -1,6 +1,6 @@
 # mondriana
 
-Python script to simulate the gridlike paintings of Piet Mondrian
+Python script to randomly generate images similar to the gridlike paintings of Piet Mondrian.
 
 ## Basic functions
 
@@ -8,7 +8,7 @@ The primary script, mondriana.py generates a random grid and then further subdiv
 
 The second script, updateinky.py, takes the most recent picture and displays it on a Pimoroni Inky Impression 7.3 7-color E paper display.
 
-I've also included the necessary changes to the Pi crontab file to change the display image every ten minutes.
+I've also included the necessary additions to the Pi crontab file to change the display image every ten minutes.
 
 ## Purpose
 
