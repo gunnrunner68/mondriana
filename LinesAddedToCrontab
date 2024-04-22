@@ -1,0 +1,2 @@
+*/10 * * * * /usr/bin/python3 /home/pi/mondrian/mondriana.py
+*/10 * * * * /usr/bin/python3 /home/pi/mondrian/updateinky.py
