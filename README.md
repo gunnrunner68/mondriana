@@ -13,3 +13,7 @@ I've also included the necessary additions to the Pi crontab file to change the 
 ## Purpose
 
 This script was written as a project to create a continuously changing image for a Pimoroni Inky Impression 7.3 800x480 color e-ink display, though it could be easily modified for other formats.
+
+## Example Image
+
+![Alt Text](https://github.com/gunnrunner68/mondriana/blob/main/images/sample3.png)
